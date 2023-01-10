@@ -78,4 +78,4 @@ type HeaderField =
    text;
    text;
  };
-service : (principal, principal, text) -> Swap
+service : (text, text, text) -> Swap
